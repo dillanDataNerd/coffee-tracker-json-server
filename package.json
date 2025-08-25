@@ -1,0 +1,25 @@
+{
+  "name": "coffee-tracker-json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillanDataNerd/coffee-tracker-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillanDataNerd/coffee-tracker-json-server/issues"
+  },
+  "homepage": "https://github.com/dillanDataNerd/coffee-tracker-json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "devDependencies": {}
+}
