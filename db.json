@@ -9,7 +9,7 @@
       "roastLevel": "light",
       "notes": "Floral, citrusy, tea-like body.",
       "imageUrl": "https://image.cnbcfm.com/api/v1/image/105989971-1561586961365bbcoffeebeanbags.jpg?v=1561587056",
-      "createdAt": "2025-08-20T09:15:30.000Z"
+      "createdAt": 1756397304575
     },
     {
       "id": 2,
@@ -64,20 +64,46 @@
       "createdAt": 1756226637930
     },
     {
-      "id": 5,
-      "beanId": 2,
+      "beanId": "1",
       "method": "moka",
-      "coffee_g": 20,
-      "output_g": 120,
-      "grind": 8,
-      "temp_c": 96,
-      "time_s": 150,
-      "rating": 3,
-      "tastingNotes": "Bold and nutty, slightly bitter.",
-      "improvementNotes": "Reduce dose by 2g for smoother flavor.",
-      "createdAt": "2025-09-01T09:40:33.000Z"
+      "grind": "6",
+      "coffee_g": "6",
+      "output_g": "6",
+      "time_s": "6",
+      "temp_c": "6",
+      "rating": 2,
+      "tastingNotes": "bean juice",
+      "improvementNotes": "bean juice",
+      "createdAt": 1756323126580,
+      "id": 6
+    },
+    {
+      "beanId": 1,
+      "method": "espresso",
+      "grind": 3,
+      "coffee_g": 18,
+      "output_g": 36,
+      "time_s": 28,
+      "temp_c": 93,
+      "rating": 5,
+      "tastingNotes": "Intense blackberry sweetness, syrupy mouthfeel.",
+      "improvementNotes": "tried again and it tasted better",
+      "createdAt": 1756371371481,
+      "id": 7
+    },
+    {
+      "beanId": 1,
+      "method": "espresso",
+      "grind": 3,
+      "coffee_g": 18,
+      "output_g": 36,
+      "time_s": 28,
+      "temp_c": 93,
+      "rating": "4",
+      "tastingNotes": "Intense blackberry sweetness, syrupy mouthfeel.",
+      "improvementNotes": "tried again and it tasted better",
+      "createdAt": 1756397184812,
+      "id": 9
     }
-    
-    
   ]
 }
