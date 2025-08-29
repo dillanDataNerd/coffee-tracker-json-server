@@ -112,13 +112,13 @@
     },
     {
       "name": "Funky monkey",
-      "roaster": "Flightless bird roasters",
-      "origin": "Other",
+      "roaster": "The Barn",
+      "origin": "Rwanda",
       "process": "anaerobic",
       "roastLevel": "medium",
       "notes": "muddy, earthy, heavy and notes of soil",
-      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClgwzyJKYTe2wr-3rAqpTPT8Pvu5yNSXlAw&s",
-      "createdAt": 1756403648734,
+      "imageUrl": "https://thebarn.de/cdn/shop/products/IMG_2827_873ff53e-4069-4e83-b216-e3f3147942c1.jpg?v=1646401991&width=1946",
+      "createdAt": 1756457920778,
       "id": 11
     }
   ],
